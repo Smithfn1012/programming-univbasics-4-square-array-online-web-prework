@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
+  while array = [15,13,18,23]
+  array.each(**)
 end
